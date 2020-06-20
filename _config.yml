@@ -55,16 +55,16 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: takagotch/page108
 repository_tree: master
 
 
 ## => Paths
 ##############################
 paths:
-  root    : # title link url, "/" (default)
-  home    : # home layout url, "/" (default)
-  archive : # "/archive.html" (default)
+  root    : / # title link url, "/" (default)
+  home    : / # home layout url, "/" (default)
+  archive : /archive.html # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
 
 
